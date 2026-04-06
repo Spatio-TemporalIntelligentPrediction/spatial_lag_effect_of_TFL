@@ -2,7 +2,7 @@
 
 Due to GitHub's file size constraints, the large spatiotemporal dataset (`2m_temperature_hourly.nc`) required to run this code is hosted publicly on **Zenodo**. 
 
-[![DOI](https://doi.org/10.5281/zenodo.19437511)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.19437510-blue.svg)](https://doi.org/10.5281/zenodo.19437510)
 
 ### How to access and use the data:
 1. Click the DOI badge above or visit the Zenodo repository to download the dataset.
